@@ -32,7 +32,7 @@ const ladderProduct: Product = {
     'Made from high-quality, rust-resistant metal with non-slip steps and twin handrails.',
   saleUnit: 'Ladder length (metre)',
   unitPrice: 2400,
-  image: '/images/image4.jpg',
+  image: '/playground-supplies/images/image4.jpg',
 };
 
 const bridgeProduct: Product = {
@@ -41,6 +41,6 @@ const bridgeProduct: Product = {
   description: 'Suspension bridge with wooden slats. Supports up to 300kg.',
   saleUnit: 'Bridge length (metre)',
   unitPrice: 3200,
-  image: '/images/image1.jpg',
+  image: '/playground-supplies/images/image1.jpg',
 };
 </script>

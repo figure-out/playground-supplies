@@ -24,7 +24,7 @@ const products: Array<Product> = [
       'Bagged, premium bark chips, made from the finest trees.<br /><br /><i>Sadly we no longer offer multi-buy discounts on this item.</i>',
     saleUnit: '50L bags (number of)',
     unitPrice: 1500,
-    image: '/images/image3.jpg',
+    image: '/playground-supplies/images/image3.jpg',
   },
   {
     sku: 'BARK_SCOOP_1/3M',
@@ -32,7 +32,7 @@ const products: Array<Product> = [
     description: 'We supply the scoop, you supply the bucket.',
     saleUnit: 'Scoop 1/3M<sup>3</sup>',
     unitPrice: 5000,
-    image: '/images/image2.jpg',
+    image: '/playground-supplies/images/image2.jpg',
   },
   {
     sku: 'BARK_SURROUND_150_4.8',
@@ -40,7 +40,7 @@ const products: Array<Product> = [
     description: 'Width: 150mm, Thickness 50mm, Length: 4.8m',
     saleUnit: 'Each 4.8 metre length',
     unitPrice: 3500,
-    image: '/images/image6.jpg',
+    image: '/playground-supplies/images/image6.jpg',
   },
   {
     sku: 'BARK_SURROUND_200_6.0',
@@ -48,7 +48,7 @@ const products: Array<Product> = [
     description: 'Width: 200mm, Thickness 50mm, Length: 6.0m',
     saleUnit: 'Each 6.0 metre length',
     unitPrice: 5000,
-    image: '/images/image7.jpg',
+    image: '/playground-supplies/images/image7.jpg',
   },
 ];
 </script>

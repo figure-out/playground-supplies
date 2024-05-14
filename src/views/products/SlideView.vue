@@ -32,6 +32,6 @@ const product: Product = {
     'Custom slide with safety rails. Manufactured in high-strength plastic.<br><br>Our slide packages contain all you need - you do not require any additional hardware.',
   saleUnit: 'CUSTOM',
   unitPrice: 0,
-  image: '/images/image5.jpg',
+  image: '/playground-supplies/images/image5.jpg',
 };
 </script>
